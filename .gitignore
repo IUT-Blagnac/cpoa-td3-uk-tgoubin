@@ -1,0 +1,12 @@
+.settings
+.vscode
+.classpath
+.project
+target
+.gradle
+build
+gradle/
+README.html
+out
+solution
+bin
